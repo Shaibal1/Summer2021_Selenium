@@ -35,7 +35,7 @@ public class Basic_Methods {
          *
          * Method 1 : get()
          *
-         * Method 2 : navigate().to()0
+         * Method 2 : navigate().to()
          *
          */
 
@@ -79,14 +79,6 @@ public class Basic_Methods {
         {
             System.out.println("title page is not the same");
         }
-
-
-
-
-
-
-
-
 
     }
 }

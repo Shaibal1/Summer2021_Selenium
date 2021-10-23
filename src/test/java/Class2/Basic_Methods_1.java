@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import sun.security.mscapi.CPublicKey;
+
 
 
 public class Basic_Methods_1
@@ -177,12 +177,7 @@ public class Basic_Methods_1
            } catch (InterruptedException e) {
                e.printStackTrace();
            }
-
-
-
        }
-
-
    }
 
 
